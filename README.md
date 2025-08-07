@@ -6,7 +6,7 @@ Welcome to **YouTube Clone v1.0.0**, a fully static front-end replica of the ico
 
 ## 🌐 Live Deployment
 
-🔗 [View Website](https://your-github-username.github.io/your-repo-name)
+🔗  https://arslaanakhtar0351.github.io/yt-clone-v1/youtube.html
 
 > Hosted on GitHub Pages — clean, fast, and no-nonsense.
 
